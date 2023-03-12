@@ -1,6 +1,6 @@
 ## String
 
-#Length 
+Length 
 
 ```
 let str  = "My Name Is JavaScript and I'm an High Level Programming Language"
