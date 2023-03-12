@@ -9,4 +9,4 @@ console.log(strLength)
 Ans = 64 , Because length function returns length of string
 ```
 
-### toUpperCase
+#### toUpperCase
